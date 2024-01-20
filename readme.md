@@ -1,0 +1,19 @@
+# PSH - Pražskej Shell/Prague Shell, is a custom console written in C made solely for the people of Prague
+### So they can more easily understand the intricacies of a linux command line.
+
+### For example:
+    Change working directory - *metro*
+    
+    Example command: *metro new_directory*
+    
+    Print directory structure - *idos*
+
+    Writing to an empty file - *reflex*
+    
+    Print text from a file - *tabery*
+    Example usage: *tabery new.txt*
+
+    Seek help - urad
+    Cheat sheet for the last command - urad fix
+
+
