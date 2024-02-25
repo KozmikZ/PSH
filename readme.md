@@ -2,19 +2,19 @@
 ### So people like me can more easily understand the intricacies of a linux command line.
 
 ## For example:
-#### Change working directory:
+### Change working directory:
 
     metro new_directory
 
-#### Print directory structure:
+### Print directory structure:
 
     idos
 
-#### Writing to an empty file: 
+### Writing to an empty file: 
     
     reflex
 
-#### Print text from a file: 
+### Print text from a file: 
     
     tabery
     
