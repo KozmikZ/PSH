@@ -1,4 +1,4 @@
-# PSH - Pražskej Shell/Prague Shell, is a custom console written in C made solely for the people of Prague
+# PSH - Pražskej Shell/Prague Shell, is a custom console written in C made exclusively for the people of Prague
 ### So people like me can more easily understand the intricacies of a linux command line.
 
 ## For example:
